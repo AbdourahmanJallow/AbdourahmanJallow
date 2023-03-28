@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science student and web developer
 ------------------------------------------
 
-I've been learning to code for 2 years , I started with java, am currently focused on my frontend skills, but have really found a passion for backend development.
+I've been learning to code for 2 years , I started out with java, am currently focused on my frontend skills, but have really found a passion for backend development.
 
 *   🌍  I'm based in The Gambia
 *   ✉️  You can contact me at [dexmanjallow@gmail.com](mailto:dexmanjallow@gmail.com)
-*   🚀  I'm currently working on [My E-commerce app](http://github.com/AbdourahmanJallow/e-commerce-app)
-*   🧠  I'm learning React js
-*   🤝  I'm open to collaborating on Open Source
+*   🚀  I'm currently working on [My E-Commerce App](http://github.com/AbdourahmanJallow/e-commerce-app)
+*   🧠  I'm learning React JS
+*   🤝  I'm open to collaborating on Open Source Projects
 *   ⚡  I'm Interested in AI & Machine learning### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
