@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------------------------
 
-I've been learning to code for 2 years , I started out with java, am currently focused on my frontend skills, but have really found a passion for backend development.
+Building applications for fun :)
 
 *   🌍  I'm based in The Gambia
 *   ✉️  You can contact me at [dexmanjallow@gmail.com](mailto:dexmanjallow@gmail.com)
