@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------------------------
 
-Building applications for fun :)
+### Building apps for fun :)
 
 *   🌍  I'm based in The Gambia
-*   ✉️  You can contact me at [dexmanjallow@gmail.com](mailto:dexmanjallow@gmail.com)
-*   🚀  I'm currently working on [My E-Commerce App](http://github.com/AbdourahmanJallow/e-commerce-app)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Open Source Projects
-*   ⚡  I'm Interested in AI & Machine learning
+*   ✉️   You can contact me at [dexmanjallow@gmail.com](mailto:dexmanjallow@gmail.com)
+*   🚀  I'm currently working on [Spotify 2.0 clone](http://github.com/AbdourahmanJallow/spotify-music-app-clone-2.0)
+*   🧠  Currently learning React
+*   🤝  Open to collaborating on Open Source Projects
+*   ⚡   Interested in AI & Machine learning
 
 ### Skills 
 <p align="left">
@@ -65,4 +65,4 @@ Building applications for fun :)
     <a href="https://github.com/AbdourahmanJallow/weather-forecast-app" align="right">
       <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdourahmanJallow&repo=weather-forecast-app&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a>
 </div>
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
