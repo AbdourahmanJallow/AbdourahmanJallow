@@ -8,7 +8,6 @@ Computer Science Student
 
 *   🌍  I'm based in The Gambia
 *   ✉️   You can contact me at [dexmanjallow@gmail.com](mailto:dexmanjallow@gmail.com)
-*   🚀  I'm currently working on [Spotify 2.0 clone](http://github.com/AbdourahmanJallow/spotify-music-app-clone-2.0)
 *   🧠  Currently learning React
 *   🤝  Open to collaborating on Open Source Projects
 *   ⚡   Interested in AI & Machine learning
