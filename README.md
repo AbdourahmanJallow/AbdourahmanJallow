@@ -60,7 +60,7 @@ Computer Science Student
 <div width="100%" align="center">
     <a href="https://github.com/AbdourahmanJallow/e-commerce-app" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdourahmanJallow&repo=e-commerce-app&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/AbdourahmanJallow/weather-forecast-app" align="right">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdourahmanJallow&repo=weather-forecast-app&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a>
+    <a href="https://github.com/AbdourahmanJallow/myFirstNextApp" align="right">
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdourahmanJallow&repo=myFirstNextApp&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a>
 </div>
 <br /><br /><br /><br />
