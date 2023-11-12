@@ -7,8 +7,8 @@ Computer Science Student
 ### Building apps for fun :)
 
 *   🌍  I'm based in The Gambia
-*   ✉️   You can contact me at [dexmanjallow@gmail.com](mailto:dexmanjallow@gmail.com)
-*   🧠  Currently learning React
+*   ✉️   You can contact me at [abdourahman87jallow@gmail.com](mailto:abdourahman87jallow@gmail.com)
+*   🧠  Currently learning Next
 *   🤝  Open to collaborating on Open Source Projects
 *   ⚡   Interested in AI & Machine learning
 
@@ -31,7 +31,6 @@ Computer Science Student
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
