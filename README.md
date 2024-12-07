@@ -8,7 +8,7 @@ Computer Science Student
 
 *   🌍  I'm based in The Gambia
 *   ✉️   You can contact me at [abdourahman87jallow@gmail.com](mailto:abdourahman87jallow@gmail.com)
-*   🧠  Currently learning Next
+*   🧠  Computer Science Student and Backend Developer
 *   🤝  Open to collaborating on Open Source Projects
 *   ⚡   Interested in AI & Machine learning
 
