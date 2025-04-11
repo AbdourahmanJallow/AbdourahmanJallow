@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 Computer Science Student
-------------------------------------------
+-----------------------------------------
 
 *   🌍  I'm based in The Gambia
 *   ✉️   You can contact me at [abdourahman87jallow@gmail.com](mailto:abdourahman87jallow@gmail.com)
