@@ -8,4 +8,4 @@ Computer Science Student
 *   ✉️   You can contact me at [abdourahman87jallow@gmail.com](mailto:abdourahman87jallow@gmail.com)
 *   🧠  CS Student, Aspiring Software Engineer
 *   🤝  Open to collaborating on Open Source Projects
-*   ⚡   Interested in AI/ML & Backend Engineering
+*   ⚡   Interested in AI/ML, Backend Engineering & Cloud Computing
